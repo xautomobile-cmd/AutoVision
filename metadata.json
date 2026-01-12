@@ -1,0 +1,7 @@
+{
+  "name": "AutoVision AI - Fahrzeugbildoptimierung",
+  "description": "Eine hochmoderne Plattform für KI-gestützte Fahrzeugbildoptimierung, die Showroom-Qualität aus beliebigen Fotos erzeugt.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
